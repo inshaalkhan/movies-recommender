@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The **Movie Recommendation System** is a machine learning project that recommends movies similar to a given movie title. The system analyzes movie content such as **genres, keywords, cast, and overview** to find similarities between movies and generate recommendations.
+The **Movie Recommendation System** is a machine learning based application that recommends movies similar to a given movie title. The system analyzes movie content such as **genres, keywords, cast, and overview** to find similarities between movies and generate recommendations.
 
 This project implements a **Content-Based Recommendation System** using Natural Language Processing (NLP) techniques and similarity measures to suggest movies that are most similar to the selected one.
 
