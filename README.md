@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+## Link - https://movies-recommender-by-inshaal.streamlit.app/
+
 ## Project Overview
 
 The **Movie Recommendation System** is a machine learning project that recommends movies similar to a given movie title. The system analyzes movie content such as **genres, keywords, cast, and overview** to find similarities between movies and generate recommendations.
