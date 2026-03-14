@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## Link - https://movies-recommender-by-inshaal.streamlit.app/
+## 💻 Application Link - https://movies-recommender-by-inshaal.streamlit.app/
 
 ## Project Overview
 
