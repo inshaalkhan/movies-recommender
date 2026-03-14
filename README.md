@@ -190,7 +190,7 @@ Movie-Recommendation-System
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 The dataset contains information about movies such as:
 
